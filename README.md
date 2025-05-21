@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Sllvalitz&theme=shadow-red&border_radius=30&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=C41617&border=C41617&fire=C41617&stroke=C41617&currStreakNum=C41617&sideNums=C41617&currStreakLabel=C41617&sideLabels=C41617&dates=FEFEFE&background=010101" 
-         width="400px" height="230px" />
+         width="400px" height="250px" />
   </a>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sllvalitz&layout=compact&title_color=C41617&text_color=FEFEFE&icon_color=C41617&bg_color=010101&border_color=C41617&border_radius=20" 
