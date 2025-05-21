@@ -8,7 +8,7 @@
 
  &nbsp;
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td width="55%">
       <a href="https://git.io/streak-stats">
@@ -24,7 +24,6 @@
     </td>
   </tr>
 </table>
-
 
  &nbsp;
  &nbsp;
