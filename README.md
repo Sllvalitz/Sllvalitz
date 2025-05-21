@@ -12,7 +12,7 @@
 <a width=55% align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sllvalitz&theme=shadow-red&border_radius=30&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=C41617&border=C41617&fire=C41617&stroke=C41617&currStreakNum=C41617&sideNums=C41617&currStreakLabel=C41617&sideLabels=C41617&dates=FEFEFE&background=010101" alt="GitHub Streak" /></a>  
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sllvalitz&layout=compact&title_color=C41617&text_color=FEFEFE&icon_color=C41617&bg_color=010101&border_color=C41617&border_radius=20" 
-  width=40% align="center
+  width=45% align="center
 />
 </p>
 
@@ -30,8 +30,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
-
-<img src="#" min-width="400px" max-width="360px" width="360px" align="right" >
 
 ### Operating Systems
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
