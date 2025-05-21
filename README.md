@@ -1,85 +1,52 @@
-# 👩🏻‍💻 Anderson da Silva
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010101&height=120&section=header"/>
 
-**`Aspirante a desenvolvedor FullStack`**
-
-Me chamo Anderson, tenho 18 anos e sou de São Luís do Maranhão. Fiz todo o meu ensino médio no Colégio Militar Tiradentes - I. 
-Atualmente estou estudando JavaScript pela Alura através do programa Trilhas Inova, na formação Back-End, e estudo Python por 
-conta própria. Sempre fui fascinado por tecnologia, desde criança, quando imaginava que o mundo da programação de jogos poderia 
-fazer absolutamente qualquer coisa. No ensino médio, entrei no projeto de Robótica da escola, onde me envolvi de forma mais 
-direta com o processo criativo, modelagem e programação de robôs com Arduino. Desde então, me apaixonei pela criação de projetos 
-físicos, especialmente na construção e programação de robôs e dispositivos eletrônicos.
-
----
-
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sllvalitz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sllvalitz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <strong>I build things with code</strong><br><br>
+  from robotics to backend systems. Currently studying Computer Engineering at UFMA. Projects include full stack web development, Java programming, Linux shell scripts, and future embedded systems for RC aircraft.<br>
+  Always learning, always building.
 </p>
+
+ &nbsp;
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sllvalitz&theme=shadow-red&border_radius=30&date_format=j%20M%5B%20Y%5D&mode=weekly&ring=C41617&border=C41617&fire=C41617&stroke=C41617&currStreakNum=C41617&sideNums=C41617&currStreakLabel=C41617&sideLabels=C41617&dates=FEFEFE&background=010101" alt="GitHub Streak" /></a>  
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sllvalitz&layout=compact&title_color=C41617&text_color=FEFEFE&icon_color=C41617&bg_color=010101&border_color=C41617&border_radius=20" 
+  width="495" 
+  height="195" 
+/>
+</p>
+
+ &nbsp;
+ &nbsp;
+
+## Technology I use
+### Most Used
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
+
+<img src="https://github.com/user-attachments/assets/b0347368-01ab-4b0f-b1f5-6171d6b264cc" min-width="400px" max-width="360px" width="360px" align="right" >
+
+### Operating Systems
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+### I Plan to Learn
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Contact
+<a href="https://www.linkedin.com/in/anderson-avlis" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010101&height=120&section=footer"/>
