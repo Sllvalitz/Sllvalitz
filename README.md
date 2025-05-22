@@ -3,7 +3,8 @@
 <p align="center">
   <strong>I build things with code</strong><br><br>
   from robotics to backend systems. Currently studying Computer Engineering at UFMA. Projects include full stack web development, Java programming, Linux shell scripts, and future embedded systems for RC aircraft.<br>
-  Always learning, always building.
+  Always learning, always building.<br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&duration=4000&pause=1000&color=C41617&width=225&lines=Github.com%2FSllvalitz" alt="Typing SVG" /></a><br>
 </p>
 
  &nbsp;
